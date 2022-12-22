@@ -3,74 +3,38 @@ var timerstart=(event)=>{
     return()=>{
       
     let paragraph=document.getElementById("para");
-        // setTimeout(() => {
-        // paragraph.textContent=parseInt(paragraph.textContent)-1;
-        // setTimeout(() => {
-        // paragraph.textContent=parseInt(paragraph.textContent)-1;
-        //     setTimeout(() => {
-        // paragraph.textContent=parseInt(paragraph.textContent)-1;
-        //         setTimeout(() => {
-        // paragraph.textContent=parseInt(paragraph.textContent)-1;
-        //          setTimeout(() => {
-        // paragraph.textContent=parseInt(paragraph.textContent)-1;
-        //             setTimeout(() => {
-        // paragraph.textContent=parseInt(paragraph.textContent)-1;
-        //                 setTimeout(() => {
-        // paragraph.textContent=parseInt(paragraph.textContent)-1;
-        //                     setTimeout(() => {
-        // paragraph.textContent=parseInt(paragraph.textContent)-1;
-        //                         setTimeout(() => {
-        // paragraph.textContent=parseInt(paragraph.textContent)-1;
-        //                             setTimeout(() => {
-        // paragraph.textContent="Happy Independence Day";
-                                        
-        //                             }, 2000);
-        //                         }, 2000);
-        //                     }, 2000);
-        //                 }, 2000);
-        //             }, 2000);
-        //          }, 2000);   
-        //         }, 2000);
-        //     }, 2000);
-        // }, 2000);    
-        // }, 2000);
-  
-
-
-
-
         setTimeout(() => {
         paragraph.textContent=parseInt(paragraph.textContent)-1;
-        }, 1000);
         setTimeout(() => {
-            paragraph.textContent=parseInt(paragraph.textContent)-1;
-            }, 2000);
+        paragraph.textContent=parseInt(paragraph.textContent)-1;
             setTimeout(() => {
-                paragraph.textContent=parseInt(paragraph.textContent)-1;
-                }, 3000);
+        paragraph.textContent=parseInt(paragraph.textContent)-1;
                 setTimeout(() => {
-                    paragraph.textContent=parseInt(paragraph.textContent)-1;
-                    }, 4000);
+        paragraph.textContent=parseInt(paragraph.textContent)-1;
+                 setTimeout(() => {
+        paragraph.textContent=parseInt(paragraph.textContent)-1;
                     setTimeout(() => {
-                        paragraph.textContent=parseInt(paragraph.textContent)-1;
-                        }, 5000);
+        paragraph.textContent=parseInt(paragraph.textContent)-1;
                         setTimeout(() => {
-                            paragraph.textContent=parseInt(paragraph.textContent)-1;
-                            }, 6000);
+        paragraph.textContent=parseInt(paragraph.textContent)-1;
                             setTimeout(() => {
-                                paragraph.textContent=parseInt(paragraph.textContent)-1;
-                                }, 7000);
+        paragraph.textContent=parseInt(paragraph.textContent)-1;
                                 setTimeout(() => {
-                                    paragraph.textContent=parseInt(paragraph.textContent)-1;
-                                    }, 8000);
+        paragraph.textContent=parseInt(paragraph.textContent)-1;
                                     setTimeout(() => {
-                                        paragraph.textContent=parseInt(paragraph.textContent)-1;
-                                        }, 9000);
-                                        setTimeout(() => {
-                                            paragraph.textContent="Happy Independence Day";
-                                            }, 10000);
-
-
+        paragraph.textContent="Happy Independence Day";
+                                        
+                                    }, 2000);
+                                }, 2000);
+                            }, 2000);
+                        }, 2000);
+                    }, 2000);
+                 }, 2000);   
+                }, 2000);
+            }, 2000);
+        }, 2000);    
+        }, 2000);
+  
     }
 }
 
