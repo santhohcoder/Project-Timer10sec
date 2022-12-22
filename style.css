@@ -1,0 +1,11 @@
+.contents{
+    text-align: center;
+}
+.div2{
+    /* width: 100px; */
+    border: 2px double red;
+}
+.main{
+    border: 5px solid green;
+    width: fit-content;
+}
